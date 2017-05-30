@@ -1,0 +1,7 @@
+[package]
+name = "fstar-prims"
+version = "0.1"
+path = "src"
+
+[dependencies]
+smt2_interface = { path = "/Users/jroesch/Git/smt2_interface" }
